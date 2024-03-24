@@ -49,6 +49,33 @@
 
 ---
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/90/7b/9b/907b9b658066b497366739f087becc49.gif">
+
+  
+</td>
+<td width="50%" align="left">
+  
+- ❓ Curious about me?
+
+- 💼  Try my portfolio for more information!
+
+- 📝 Checkout my blog for additional insights!.
+
+- 🌬️ GSoC 2024? I'm all in!
+  
+- 🚀 All of my projects are available at https://github.com/RadithSandeepa
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="youtube" height="50" width="50" /></a>
