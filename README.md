@@ -99,5 +99,5 @@
 
 <h3 align="center">Contribution Graph:</h3>
 <p align="center">
-<img src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake.svg" alt="snake_eating_contribution_graph"/>
+<img src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph"/>
 </p>
