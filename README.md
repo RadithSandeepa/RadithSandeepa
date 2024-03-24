@@ -94,3 +94,9 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+
+---
+
+<p align="center">
+<img src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake.svg" alt="snake_eating_contribution_graph"/>
+</p>
