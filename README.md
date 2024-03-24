@@ -51,11 +51,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="RadithSandeepa" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/radith-sandeepa-8b3063184/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="RadithSandeepa" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RadithSandeepa" height="50" width="50" /></a>
-<a href="https://www.facebook.com/jahgj.navk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RadithSandeepa" height="50" width="50" /></a>
-<a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="RadithSandeepa" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="youtube" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/radith-sandeepa-8b3063184/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="50" width="50" /></a>
+<a href="https://www.facebook.com/jahgj.navk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
+<a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
 ---
@@ -66,4 +66,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RadithSandeepa" /></a></p>
+<p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
