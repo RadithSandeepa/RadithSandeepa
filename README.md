@@ -59,15 +59,15 @@
 </td>
 <td width="50%" align="left">
   
-- ❓   Curious about me?
+- 🌼 Curious about me?
 
 - 💼 Try my portfolio for more information!
 
-- 📝 Checkout my blog for additional insights!.
+- 🌟 Checkout my blog for additional insights!.
 
-- 🌟 GSoC 2024? I'm all in!
+- 📝 GSoC 2024? I'm all in!
   
-- 🚀 All of my projects are available at https://github.com/RadithSandeepa
+- 🌿 All of my projects are available at https://github.com/RadithSandeepa
 
 </td>
 
