@@ -59,7 +59,7 @@
 </td>
 <td width="50%" align="left">
   
-- ❓  Curious about me?
+- ❓   Curious about me?
 
 - 💼 Try my portfolio for more information!
 
