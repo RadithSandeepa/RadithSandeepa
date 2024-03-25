@@ -61,7 +61,7 @@
   
 - 🌼 Curious about me?
 
-- 💼 Try my portfolio for more information!
+- 💼   Try my portfolio for more information!
 
 - 🌟 Checkout my blog for additional insights!.
 
