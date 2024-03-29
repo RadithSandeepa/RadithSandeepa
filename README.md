@@ -82,7 +82,7 @@
 <a href="https://www.linkedin.com/in/radith-sandeepa-8b3063184/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="50" width="50" /></a>
 <a href="https://www.facebook.com/jahgj.navk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
-<a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://github.com/RadithSandeepa/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a>
 </p>
 
 ---
