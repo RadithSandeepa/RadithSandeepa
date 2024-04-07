@@ -99,12 +99,7 @@
 
 <h3 align="center">Contribution Graph:</h3>
 <p align="center">
-<!-- <img  id="contribution-graph" src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph"/> -->
-  <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-light.svg" alt="snake_eating_contribution_graph">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph">
-      <img src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph)" alt="Image description">
-  </picture>
+<img  id="contribution-graph" src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph"/>
 </p>
 
 
