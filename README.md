@@ -65,7 +65,7 @@
 
 - 🌟 Checkout my blog for additional insights!.
 
-- 📝 GSoC 2024? I'm all in!
+- 📝 HackerRank Account https://www.hackerrank.com/profile/radithsandeepa51
   
 - 🌿 All of my projects are available at https://github.com/RadithSandeepa
 
