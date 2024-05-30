@@ -65,7 +65,7 @@
 
 - 🌟 Checkout my blog for additional insights!.
 
-- 📝 HackerRank Account https://www.hackerrank.com/profile/radithsandeepa51
+- 📝 <a href="https://www.hackerrank.com/profile/radithsandeepa51" target="_blank" rel="noreferrer">HackerRank Account</a> 
   
 - 🌿 All of my projects are available at https://github.com/RadithSandeepa
 
