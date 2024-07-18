@@ -61,7 +61,7 @@
   
 - 🌼 Curious about me?
 
-- 💼   Try my portfolio for more information!
+- 💼   Try my <a href="" target="_blank" rel="noreferrer">portfolio</a> for more information!
 
 - 🌟 Checkout my blog for additional insights!.
 
