@@ -6,7 +6,7 @@
 ---
 
 <div align="center" style="margin: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=dark_lover&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=gruvbox&margin-w=5&no-frame=true" />
 </div>
 
 ---
