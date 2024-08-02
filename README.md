@@ -5,12 +5,6 @@
 
 ---
 
-<div align="center" style="margin: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=gruvbox&margin-w=5&no-frame=true" />
-</div>
-
----
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -38,6 +32,11 @@
 ---
 
 <h3 align="center">My Statistics:</h3>
+
+<div align="center" style="margin: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=alduin&margin-w=5" />
+</div>
+
 <p align="center">
 <table align="center">
 <tr border="none">
