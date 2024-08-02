@@ -1,7 +1,15 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Konnichiwa(こんにちは) 🌞, I'm Radith Sandeepa</h1>
 <h3 align="center">Constantly learning and evolving, I delve into various domains within the tech industry, from software development and data science to cybersecurity and cloud computing.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RadithSandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="RadithSandeepa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RadithSandeepa&style=for-the-badge&color=blue" alt="" /> </p>
+
+---
+
+<div align="center" style="margin: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=dark_lover&no-bg=true&margin-w=5" />
+</div>
+
+---
 
 <table align="center">
 <tr border="none">
@@ -41,7 +49,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RadithSandeepa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RadithSandeepa&theme=dark&hide_border=false&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
