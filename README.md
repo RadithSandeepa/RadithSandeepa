@@ -83,7 +83,7 @@
 
 ---
 
-<h3 align="center">Hacktoberfest 2024</h3>
+<h3 align="center">Hacktoberfest 2024:</h3>
 
 [![An image of @radith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radith)](https://holopin.io/@radith)
 
