@@ -83,12 +83,6 @@
 
 ---
 
-<h3 align="center">Hacktoberfest 2024:</h3>
-
-[![An image of @radith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radith)](https://holopin.io/@radith)
-
----
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="youtube" height="50" width="50" /></a>
@@ -115,4 +109,9 @@
 <img  id="contribution-graph" src="https://github.com/RadithSandeepa/RadithSandeepa/blob/output/github-snake-dark.svg" alt="snake_eating_contribution_graph"/>
 </p>
 
+---
+
+<h3 align="center">Hacktoberfest 2024:</h3>
+
+[![An image of @radith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/radith)](https://holopin.io/@radith)
 
