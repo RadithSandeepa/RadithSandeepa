@@ -45,12 +45,15 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RadithSandeepa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RadithSandeepa&theme=dark&hide_border=false" /> 
-  <img align="center" width="300" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dal9f2w-959add5a-0b7a-40ad-bf4e-38ca69522267.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGFsOWYydy05NTlhZGQ1YS0wYjdhLTQwYWQtYmY0ZS0zOGNhNjk1MjIyNjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S8BKYKqNCXyGqxcrrWadiE1zbh8fWg876WoNxdqskDI"/>
+  <br></br>
+  <img width="500" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddwucyn-d52c9f39-b5f1-4de7-bebb-90bba4f591e5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGR3dWN5bi1kNTJjOWYzOS1iNWYxLTRkZTctYmViYi05MGJiYTRmNTkxZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o0SRqEwSNnJIfl86AnPdtLtYfFDsQ_yZ7shDuGyDytg"/>
+    <p>🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂</p>
 </td>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RadithSandeepa&theme=dark&hide_border=false&no-frame=true&langs_count=10"/>
-  
+   <br></br>
+  <img width="300" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dal9f2w-959add5a-0b7a-40ad-bf4e-38ca69522267.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGFsOWYydy05NTlhZGQ1YS0wYjdhLTQwYWQtYmY0ZS0zOGNhNjk1MjIyNjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S8BKYKqNCXyGqxcrrWadiE1zbh8fWg876WoNxdqskDI"/>
   </td>
 </tr>
 </table>
@@ -92,6 +95,16 @@
 <a href="https://www.facebook.com/jahgj.navk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
 <a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://github.com/RadithSandeepa/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a>
 </p>
+
+---
+<table>
+<td width="50%" align="center">
+<img width="400" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGlnYXhuNy1iNTJjOTc2NS0xM2NlLTQwMzQtYjk5ZC1mMWE2YjEwMzAxNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mtZHNPHDqcIJmTGzqwnEYER6CjTNerivEnhsFCLjiQs"/>
+</td>
+<td width="50%" align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fa02396-3a56-4f11-8a77-7f2ed589d5a8/dkga5gb-51f33cdd-2244-40ad-801a-1ae34ad6f104.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZmEwMjM5Ni0zYTU2LTRmMTEtOGE3Ny03ZjJlZDU4OWQ1YTgvZGtnYTVnYi01MWYzM2NkZC0yMjQ0LTQwYWQtODAxYS0xYWUzNGFkNmYxMDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v_9CRf4UTdYjFeeo5kA0jatFclrVxAvjB5fi4aPVrkg"/>
+</td>
+</table>
 
 ---
 
