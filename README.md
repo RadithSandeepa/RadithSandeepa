@@ -45,6 +45,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RadithSandeepa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RadithSandeepa&theme=dark&hide_border=false" /> 
+  <img align="center" width="300" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dal9f2w-959add5a-0b7a-40ad-bf4e-38ca69522267.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGFsOWYydy05NTlhZGQ1YS0wYjdhLTQwYWQtYmY0ZS0zOGNhNjk1MjIyNjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S8BKYKqNCXyGqxcrrWadiE1zbh8fWg876WoNxdqskDI"/>
 </td>
 <td width="50%" align="center">
 
