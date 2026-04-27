@@ -34,7 +34,7 @@
 <h3 align="center">My Statistics:</h3>
 
 <div align="center" style="margin: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadithSandeepa&theme=alduin&margin-w=5" />
+  <img src="https://github-trophies.vercel.app/?username=RadithSandeepa&theme=gruvbox&no-bg=true&column=8" />
 </div>
 
 <p align="center">
@@ -46,8 +46,8 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RadithSandeepa&theme=dark&hide_border=false" /> 
   <br></br>
-  <img width="480" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddwucyn-d52c9f39-b5f1-4de7-bebb-90bba4f591e5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGR3dWN5bi1kNTJjOWYzOS1iNWYxLTRkZTctYmViYi05MGJiYTRmNTkxZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o0SRqEwSNnJIfl86AnPdtLtYfFDsQ_yZ7shDuGyDytg"/>
-    <p>🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂</p>
+  <img width="480" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddwucyn-d52c9f39-b5f1-4de7-bebb-90bba4f591e5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGR3dWN5bi1kNTJjOWYzOS1iNWYxLTRkZTctYmViYi05MGJiYTRmNTkxZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o0SRqEwSNnJIfl86AnPdtLtYfFDsQ_yZ7shDuGyDytg"/>
+    <p>🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂</p>
 </td>
 <td width="50%" align="center">
 
@@ -88,18 +88,29 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="60" width="65" /></a>
-<a href="https://www.linkedin.com/in/radith-sandeepa-8b3063184/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="50" width="50" /></a>
-<a href="https://www.facebook.com/jahgj.navk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
-<a href="https://www.instagram.com/radith_._/" target="blank"><img align="center" src="https://github.com/RadithSandeepa/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="50" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/radith-sandeepa-8b3063184/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" style="margin: 0 8px;" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="50" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.facebook.com/jahgj.navk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" style="margin: 0 8px;" />
+  </a>
+  <a href="https://www.instagram.com/radith_._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="50" style="margin: 0 8px;" />
+  </a>
 </p>
 
 ---
 <table>
 <td width="50%" align="center">
-<img width="400" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGlnYXhuNy1iNTJjOTc2NS0xM2NlLTQwMzQtYjk5ZC1mMWE2YjEwMzAxNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mtZHNPHDqcIJmTGzqwnEYER6CjTNerivEnhsFCLjiQs"/>
+<img width="375" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGlnYXhuNy1iNTJjOTc2NS0xM2NlLTQwMzQtYjk5ZC1mMWE2YjEwMzAxNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mtZHNPHDqcIJmTGzqwnEYER6CjTNerivEnhsFCLjiQs"/>
 </td>
 <td width="50%" align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fa02396-3a56-4f11-8a77-7f2ed589d5a8/dkga5gb-51f33cdd-2244-40ad-801a-1ae34ad6f104.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZmEwMjM5Ni0zYTU2LTRmMTEtOGE3Ny03ZjJlZDU4OWQ1YTgvZGtnYTVnYi01MWYzM2NkZC0yMjQ0LTQwYWQtODAxYS0xYWUzNGFkNmYxMDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v_9CRf4UTdYjFeeo5kA0jatFclrVxAvjB5fi4aPVrkg"/>
