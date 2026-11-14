@@ -42,7 +42,11 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RadithSandeepa&theme=dark&show_icons=true&count_private=true" />
+  <img
+  align="center"
+  src="https://github-stats-extended.vercel.app/api?username=RadithSandeepa&theme=gruvbox&show_icons=true&include_all_commits=true"
+  alt="Radith's GitHub Stats"
+  />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RadithSandeepa&theme=dark&hide_border=false" /> 
   <br></br>
